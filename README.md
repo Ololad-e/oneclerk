@@ -100,8 +100,8 @@ Traditional e-commerce platforms overwhelm non-technical creators with endless m
 
 ## 💻 Running the Prototype Locally
 
-https://oneclerk-iteration.vercel.app/
----
+[oneclerk-iteration.vercel.app](https://oneclerk-iteration.vercel.app/)
+**---
 
 ## 👤 Author & Design Credit
 
