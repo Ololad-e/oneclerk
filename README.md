@@ -100,28 +100,7 @@ Traditional e-commerce platforms overwhelm non-technical creators with endless m
 
 ## 💻 Running the Prototype Locally
 
-No build step, compiler, or external package manager is required. The project runs directly in any modern browser:
-
-1. **Clone or Download** the repository:
-   ```bash
-   git clone <repo-url>
-   cd oneclerk
-   ```
-
-2. **Serve Locally** (using Python, Node, or VSCode Live Server):
-   ```bash
-   # Using Python 3
-   python -m http.server 8080
-
-   # Or using Node (e.g. npx serve)
-   npx serve .
-   ```
-
-3. **Open in Browser**:
-   - Landing Page: `http://localhost:8080/`
-   - Storefront Studio & Customer Storefront: `http://localhost:8080/#storefront`
-   - Founder Dashboard: `http://localhost:8080/#dashboard`
-
+https://oneclerk-iteration.vercel.app/
 ---
 
 ## 👤 Author & Design Credit
