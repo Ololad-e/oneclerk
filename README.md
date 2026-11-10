@@ -128,7 +128,7 @@ No build step, compiler, or external package manager is required. The project ru
 
 **Ololade Oduyomi**  
 *Senior Product Designer & Design Engineer*  
-- Portfolio / Contact: [oneclerk.com](https://oneclerk.com)  
+- Portfolio / Contact: [ololade.xyz](https://www.ololade.xyz)  
 - Iteration Focus: User experience, accessibility for non-technical entrepreneurs, conversational commerce UI, and template layout generation.
 
 ---
